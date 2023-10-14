@@ -11,7 +11,7 @@ selection-background = #654735
 selection-foreground = #fbf1c7
 
 cursor-color =#928374
-cursor-text =background
+cursor-text =fbf1c7
 
 # Black
 palette = 0=#bdae93

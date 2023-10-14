@@ -11,7 +11,7 @@ selection-background = #1d3b53
 
 #: Cursor colors
 cursor-color =#80a4c2
-cursor-text =background
+cursor-text =#011627
 
 
 #: The basic 16 colors

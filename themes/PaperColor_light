@@ -8,7 +8,7 @@
 foreground = #444444
 background = #eeeeee
 cursor-color =#444444
-cursor-text =background
+cursor-text =#eeeeee
 
 # black
 palette = 0=#eeeeee

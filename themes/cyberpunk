@@ -7,6 +7,7 @@
 
 foreground = #FF0055
 background = #120B10
+selection-foreground = #FF0055
 selection-background = #563466
 
 

@@ -1,0 +1,42 @@
+## name: One Half Light
+## author: Son A. Pham
+## license: MIT
+## upstream: https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-light.conf
+## blurb: Clean, vibrant and pleasing color scheme
+
+foreground = #383A42
+background = #FAFAFA
+selection-foreground = #383A42
+selection-background = #BFCEFF
+
+# black
+palette = 0=#383A42
+palette = 8=#383A42
+
+# red
+palette = 1=#E45649
+palette = 9=#E45649
+
+# green
+palette = 2=#40A14F
+palette = 10=#40A14F
+
+# yellow
+palette = 3=#C18401
+palette = 11=#C18401
+
+# blue
+palette = 4=#0184BC
+palette = 12=#0184BC
+
+# magenta
+palette = 5=#A626A4
+palette = 13=#A626A4
+
+# cyan
+palette = 6=#0997B3
+palette = 14=#0997B3
+
+# white
+palette = 7=#FAFAFA
+palette = 15=#FAFAFA

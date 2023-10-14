@@ -1,0 +1,52 @@
+
+## name: Doom One Light
+## author: Henrik Lissner <https://github.com/hlissner>
+## license: MIT
+## blurb: Doom Emacs flagship theme based on atom One Light
+
+# The basic colors
+foreground = #383a42
+background = #fafafa
+selection-foreground = #383a42
+selection-background = #dfdfdf
+
+# Cursor colors
+cursor-color =#383a42
+cursor-text =#fafafa
+
+# kitty window border colors
+
+# Tab bar colors
+
+# The basic 16 colors
+# black
+palette = 0=#383a42
+palette = 8=#c6c7c7
+
+# red
+palette = 1=#e45649
+palette = 9=#e45649
+
+# green
+palette = 2=#50a14f
+palette = 10=#50a14f
+
+# yellow
+palette = 3=#986801
+palette = 11=#986801
+
+# blue
+palette = 4=#4078f2
+palette = 12=#4078f2
+
+# magenta
+palette = 5=#a626a4
+palette = 13=#b751b6
+
+# cyan
+palette = 6=#005478
+palette = 14=#0184bc
+
+# white
+palette = 7=#f0f0f0
+palette = 15=#383a42

@@ -1,0 +1,50 @@
+## name: Everforest Dark Soft
+## author: Sainnhe Park
+## license: MIT
+## upstream: https://github.com/ewal/kitty-everforest/blob/master/themes/everforest_dark_soft.conf
+## blurb: A green based color scheme designed to be warm and soft
+
+foreground = #d3c6aa
+background = #333c43
+selection-foreground = #9da9a0
+selection-background = #5c3f4f
+
+cursor-color =#d3c6aa
+cursor-text =#3a464c
+
+
+
+
+
+
+#: black
+palette = 0=#343f44
+palette = 8=#3d484d
+
+#: red
+palette = 1=#e67e80
+palette = 9=#e67e80
+
+#: green
+palette = 2=#a7c080
+palette = 10=#a7c080
+
+#: yellow
+palette = 3=#dbbc7f
+palette = 11=#dbbc7f
+
+#: blue
+palette = 4=#7fbbb3
+palette = 12=#7fbbb3
+
+#: magenta
+palette = 5=#d699b6
+palette = 13=#d699b6
+
+#: cyan
+palette = 6=#83c092
+palette = 14=#83c092
+
+#: white
+palette = 7=#859289
+palette = 15=#9da9a0

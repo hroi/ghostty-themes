@@ -1,0 +1,49 @@
+# xcodedark by arzg, https://github.com/arzg/vim-colors-xcode
+# This work is licensed under the terms of the MIT license.
+# For a copy, see https://opensource.org/licenses/MIT.
+
+background = #292a30
+foreground = #dfdfe0
+
+cursor-color =#53606e
+
+selection-foreground = #53606e
+selection-background = #393b44
+
+palette = 0=#292a30
+palette = 8=#53606e
+
+# red
+palette = 1=#ff8170
+# pink
+palette = 9=#ff7ab2
+
+# teal
+palette = 2=#78c2b3
+# lighy teal
+palette = 10=#acf2e4
+
+# yellow
+palette = 3=#ffa14f
+# light yellow
+palette = 11=#d9c97c
+
+# blue
+palette = 4=#4eb0cc
+# light blue
+palette = 12=#6bdfff
+
+# purple
+palette = 5=#b281eb
+# light purple
+palette = 13=#dabaff
+
+# green
+palette = 6=#84b360
+# light green
+palette = 14=#b0e687
+
+# light gray
+palette = 7=#a3b1bf
+# dark gray
+palette = 15=#53606e

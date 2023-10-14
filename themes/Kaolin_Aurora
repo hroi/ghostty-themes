@@ -1,0 +1,52 @@
+
+## name: Kaolin Aurora
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Kaolin meets polar lights.
+
+
+# The basic colors
+foreground = #e6e6e8
+background = #14191e
+selection-foreground = #14191e
+selection-background = #e6e6e8
+
+# Cursor colors
+cursor-color =#e6e6e8
+cursor-text =#14191e
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#14191e
+palette = 8=#454459
+
+# red
+palette = 1=#e55c7a
+palette = 9=#cd5c60
+
+# green
+palette = 2=#31E183
+palette = 10=#7CF083
+
+# yellow
+palette = 3=#f5c791
+palette = 11=#dbac66
+
+# blue
+palette = 4=#4ca6e8
+palette = 12=#91b9c7
+
+# magenta
+palette = 5=#9d81ba
+palette = 13=#6E6884
+
+# cyan
+palette = 6=#49bdb0
+palette = 14=#0D9C94
+
+# white
+palette = 7=#e6e6e8
+palette = 15=#f2f2f2

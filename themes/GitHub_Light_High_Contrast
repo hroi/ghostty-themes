@@ -1,0 +1,55 @@
+
+## name: GitHub Light High Contrast
+## author: GitHub
+## license: MIT
+
+#: The basic colors
+
+foreground = #0e1116
+background = #ffffff
+selection-foreground = #ffffff
+selection-background = #0349b4
+
+
+#: Cursor colors
+
+cursor-color =#0349b4
+
+
+#: Tab bar colors
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#0e1116
+palette = 8=#4b535d
+
+#: red
+palette = 1=#a0111f
+palette = 9=#86061d
+
+#: green
+palette = 2=#024c1a
+palette = 10=#055d20
+
+#: yellow
+palette = 3=#3f2200
+palette = 11=#4e2c00
+
+#: blue
+palette = 4=#0349b4
+palette = 12=#1168e3
+
+#: magenta
+palette = 5=#622cbc
+palette = 13=#844ae7
+
+#: cyan
+palette = 6=#1b7c83
+palette = 14=#3192aa
+
+#: white
+palette = 7=#66707b
+palette = 15=#88929d

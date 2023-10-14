@@ -1,0 +1,27 @@
+# 1984 light theme by Bertie Blackman, https://github.com/covertbert/iterm2-1984/
+
+foreground = #19152c
+background = #e4e5f5
+selection-foreground = #19152c
+selection-background = #ff16b0
+palette = 0=#000000
+palette = 1=#ff16b0
+palette = 2=#00af4f
+palette = 3=#ff8d01
+palette = 4=#0098fd
+palette = 5=#f806fa
+palette = 6=#00b2be
+palette = 7=#feffff
+palette = 8=#000000
+palette = 9=#ff16b0
+palette = 10=#00af4f
+palette = 11=#ff8d01
+palette = 12=#0098fd
+palette = 13=#f806fa
+palette = 14=#00b2be
+palette = 15=#feffff
+
+# URL styles
+
+# Cursor styles
+cursor-color =#00b2be

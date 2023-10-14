@@ -1,0 +1,44 @@
+
+## name: Aquarium Light
+## license: MIT
+## author: ragdoll2iguess
+## upstream: https://github.com/FrenzyExists/aquarium-vim/raw/develop/extras/kitty_aquarium_light.conf
+## blurb: A simple vibrant dark theme Kitty terminal.
+## Old BG -> #E6E6F1  #E1E3F2
+
+foreground = #708190
+background = #E6E6F1
+selection-foreground = #9CA6B9
+selection-background = #3D4059
+
+# white
+palette = 0=#D5D4E0
+palette = 8=#CCCBD9
+
+# red
+palette = 1=#C34864
+palette = 9=#B7435E
+
+# green
+palette = 2=#7D9685
+palette = 10=#7E8F80
+
+# yellow
+palette = 3=#DE956F
+palette = 11=#D88B72
+
+# blue
+palette = 4=#6A8CBC
+palette = 12=#6E7EBF
+
+# magenta
+palette = 5=#8787BF
+palette = 13=#7170C2
+
+# cyan
+palette = 6=#829FB0
+palette = 14=#728A9A
+
+# black
+palette = 7=#313449
+palette = 15=#414560

@@ -1,0 +1,66 @@
+## name: Alabaster
+## author: Nikita Prokopov
+## license: MIT
+## upstream: https://raw.githubusercontent.com/anmolmathias/kitty-alabaster/master/alabaster.conf
+## blurb: A light color scheme adapted from Alabaster for the kitty terminal.
+
+#: The basic colors
+
+foreground = #000000
+background = #f7f7f7
+
+selection-foreground = #000000
+selection-background = #bfdbfe
+
+
+#: Cursor colors
+
+cursor-color =#007acc
+cursor-text =#bfdbfe
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#777777
+
+#: red
+palette = 1=#aa3731
+palette = 9=#f05050
+
+#: green
+palette = 2=#448c37
+palette = 10=#60cb00
+
+#: yellow
+palette = 3=#cb9000
+palette = 11=#ffbc5d
+
+#: blue
+palette = 4=#325cc0
+palette = 12=#007acc
+
+#: magenta
+palette = 5=#7a3e9d
+palette = 13=#e64ce6
+
+#: cyan
+palette = 6=#0083b2
+palette = 14=#00aacb
+
+#: white
+palette = 7=#f7f7f7
+palette = 15=#f7f7f7
+
+
+#: kitty window border colors and terminal bell colors
+
+
+
+#: Tab bar colors
+

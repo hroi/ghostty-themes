@@ -1,0 +1,60 @@
+## name: Midsummer Night
+## author: abrielleing
+
+
+#: The basic colors
+
+foreground = #C6B8B1
+background = #1C1E26
+selection-foreground = None
+selection-background = #2E303E
+
+
+#: Cursor colors
+
+cursor-color =#D34C6B
+cursor-text =#1C1E26
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: Tab bar colors
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#666666
+
+#: red
+palette = 1=#D85069
+palette = 9=#D85069
+
+#: green
+palette = 2=#2DCBBE
+palette = 10=#2DCBBE
+
+#: yellow
+palette = 3=#E5A382
+palette = 11=#E5A382
+
+#: blue
+palette = 4=#35A5BB
+palette = 12=#35A5BB
+
+#: magenta
+palette = 5=#D34C68
+palette = 13=#D34C68
+
+#: cyan
+palette = 6=#2DCBBE
+palette = 14=#2DCBBE
+
+#: white
+palette = 7=#B1C7C9
+palette = 15=#B1C7C9
+

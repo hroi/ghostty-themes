@@ -1,0 +1,55 @@
+
+## name: GitHub Dark Dimmed
+## author: GitHub
+## license: MIT
+
+#: The basic colors
+
+foreground = #adbac7
+background = #22272e
+selection-foreground = #22272e
+selection-background = #539bf5
+
+
+#: Cursor colors
+
+cursor-color =#539bf5
+
+
+#: Tab bar colors
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#545d68
+palette = 8=#636e7b
+
+#: red
+palette = 1=#f47067
+palette = 9=#ff938a
+
+#: green
+palette = 2=#57ab5a
+palette = 10=#6bc46d
+
+#: yellow
+palette = 3=#c69026
+palette = 11=#daaa3f
+
+#: blue
+palette = 4=#539bf5
+palette = 12=#6cb6ff
+
+#: magenta
+palette = 5=#b083f0
+palette = 13=#dcbdfb
+
+#: cyan
+palette = 6=#39c5cf
+palette = 14=#56d4dd
+
+#: white
+palette = 7=#909dab
+palette = 15=#cdd9e5

@@ -1,0 +1,56 @@
+
+## name: Monoindustrial
+## license: MIT
+## blurb: A port of the Monoindustrial theme from TextMate
+
+#: The basic colors
+
+foreground = #FFFFFF
+background = #222C28
+selection-foreground = #FFFFFF
+selection-background = #909993
+
+
+#: Cursor colors
+
+cursor-color =#FFFFFF
+cursor-text =#222C28
+
+
+#: URL underline color when hovering with mouse
+
+
+#: OS Window titlebar colors
+
+# wayland_titlebar_color          system
+# macos_titlebar_color            system
+
+
+#: Tab bar colors
+
+
+#: Colors
+
+palette = 0=#151C19
+palette = 8=#151C19
+
+palette = 1=#A39E64
+palette = 9=#A39E64
+
+palette = 2=#A8B3AB
+palette = 10=#A8B3AB
+
+palette = 3=#E98800
+palette = 11=#C87500
+
+palette = 4=#648BD2
+palette = 12=#5879B7
+
+palette = 5=#588E60
+palette = 13=#588E60
+
+palette = 6=#C23800
+palette = 14=#990000
+
+palette = 7=#FFFFFF
+palette = 15=#eeeeee

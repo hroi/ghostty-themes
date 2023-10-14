@@ -1,0 +1,50 @@
+## name: VSCode_Dark
+## author: ported from Microsoft VSCode by huabeiyou
+## license: MIT
+## blurb: the integrated terminal's default dark theme
+
+# The basic colors
+foreground = #cccccc
+background = #1e1e1e
+selection-foreground = #cccccc
+selection-background = #264f78
+
+# Cursor colors
+cursor-color =#ffffff
+cursor-text =#1e1e1e
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#000000
+palette = 8=#666666
+
+# red
+palette = 1=#f14c4c
+palette = 9=#cd3131
+
+# green
+palette = 2=#23d18b
+palette = 10=#0dbc79
+
+# yellow
+palette = 3=#f5f543
+palette = 11=#e5e510
+
+# blue
+palette = 4=#3b8eea
+palette = 12=#2472c8
+
+# magenta
+palette = 5=#d670d6
+palette = 13=#bc3fbc
+
+# cyan
+palette = 6=#29b8db
+palette = 14=#11a8cd
+
+# white
+palette = 7=#e5e5e5
+palette = 15=#e5e5e5

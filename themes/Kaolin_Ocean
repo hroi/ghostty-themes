@@ -1,0 +1,52 @@
+
+## name: Kaolin Ocean
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Dark blue Kaolin theme
+
+
+# The basic colors
+foreground = #e6e6e8
+background = #14141e
+selection-foreground = #14141e
+selection-background = #e6e6e8
+
+# Cursor colors
+cursor-color =#e6e6e8
+cursor-text =#14141e
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#14141e
+palette = 8=#545c5e
+
+# red
+palette = 1=#e84c58
+palette = 9=#e84c58
+
+# green
+palette = 2=#35BF88
+palette = 10=#7CF083
+
+# yellow
+palette = 3=#dbac66
+palette = 11=#eed891
+
+# blue
+palette = 4=#4ca6e8
+palette = 12=#53859d
+
+# magenta
+palette = 5=#c79af4
+palette = 13=#cea2ca
+
+# cyan
+palette = 6=#6bd9db
+palette = 14=#4d9391
+
+# white
+palette = 7=#e6e6e8
+palette = 15=#bebec4

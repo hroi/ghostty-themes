@@ -1,0 +1,53 @@
+
+## name: YsDark
+## author: Ya-suke
+## license: MIT
+## blurb: A dracula inspired colorscheme for kitty.
+
+# basic colors
+foreground = #bbc5ff
+background = #1B1E35
+selection-foreground = #ffffff
+selection-background = #44475a
+
+# Cursor colors
+cursor-color =#bbc5ff
+cursor-text =background
+
+# URL
+
+# Colors for marks
+
+# Tab bar colors
+
+# black
+palette = 0=#101010
+palette = 8=#434758
+
+# red
+palette = 1=#f07178
+palette = 9=#ff8b92
+
+# green
+palette = 2=#c3e88d
+palette = 10=#ddffa7
+
+# yellow
+palette = 3=#ffcb6b
+palette = 11=#ffe585
+
+# blue
+palette = 4=#82aaff
+palette = 12=#9cc4ff
+
+# magenta
+palette = 5=#e1acff
+palette = 13=#c792ea
+
+# cyan
+palette = 6=#89ddff
+palette = 14=#a3f7ff
+
+# white
+palette = 7=#d0d0d0
+palette = 15=#ffffff

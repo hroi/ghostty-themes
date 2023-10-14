@@ -1,0 +1,27 @@
+# 1984 orwellian theme by Bertie Blackman, https://github.com/covertbert/iterm2-1984/
+
+foreground = #f1f1f1
+background = #2e2923
+selection-foreground = #000000
+selection-background = #3fc4ce
+palette = 0=#000000
+palette = 1=#e74946
+palette = 2=#4cb605
+palette = 3=#fcd395
+palette = 4=#356fe4
+palette = 5=#fcbe95
+palette = 6=#3fc4ce
+palette = 7=#f1f1f1
+palette = 8=#000000
+palette = 9=#e74946
+palette = 10=#4cb605
+palette = 11=#fcd395
+palette = 12=#356fe4
+palette = 13=#fcbe95
+palette = 14=#3fc4ce
+palette = 15=#f1f1f1
+
+# URL styles
+
+# Cursor styles
+cursor-color =#3fc4ce

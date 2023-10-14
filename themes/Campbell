@@ -1,0 +1,45 @@
+
+## name: Campbell
+## author: Microsoft
+## blurb: The default theme of Microsoft's terminals, including Windows Terminal and cmd.
+
+# The basic colors
+foreground = #cccccc
+background = #0c0c0c
+selection-background = #ffffff
+
+# Cursor colors
+cursor-color =#ffffff
+
+# The basic 16 colors
+# black
+palette = 0=#0c0c0c
+palette = 8=#767676
+
+# red
+palette = 1=#c50f1f
+palette = 9=#e74856
+
+# green
+palette = 2=#13a10e
+palette = 10=#16c60c
+
+# yellow
+palette = 3=#f19c00
+palette = 11=#f9f1a5
+
+# blue
+palette = 4=#0037da
+palette = 12=#3b78ff
+
+# magenta
+palette = 5=#881798
+palette = 13=#b4009e
+
+# cyan
+palette = 6=#3a96dd
+palette = 14=#61d6d6
+
+# white
+palette = 7=#cccccc
+palette = 15=#f2f2f2

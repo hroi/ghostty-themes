@@ -1,0 +1,26 @@
+# Sierra Colorscheme for Kitty
+# Based on https://www.reddit.com/r/unixporn/comments/dgx7gk/bspwm_nostalgic_days/
+
+# cursorColor: #cacbb9
+selection-background = #1c1a14
+selection-background = #cacbb9
+foreground = #cacbb9
+background = #1c1a14
+
+
+palette = 0=#0e0e04
+palette = 1=#515a45
+palette = 2=#68694f
+palette = 3=#7f7f60
+palette = 4=#989876
+palette = 5=#897c5b
+palette = 6=#a18e60
+palette = 7=#bb7774
+palette = 8=#a85e5d
+palette = 9=#475a2e
+palette = 10=#676938
+palette = 11=#7f7f41
+palette = 12=#98984e
+palette = 13=#897645
+palette = 14=#a17140
+palette = 15=#c9cbac

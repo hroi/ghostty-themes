@@ -1,0 +1,33 @@
+## name: Hachiko 
+## author: Mert18 
+
+# Cursor colors
+cursor-color =#FF7979
+cursor-text =#111111
+
+# Color Schemes
+
+
+
+selection-foreground = #FFFAFA
+selection-background = #870300
+
+
+palette = 0=#181818
+palette = 8=#333333
+palette = 1=#960042
+palette = 9=#870300
+palette = 2=#FF0000
+palette = 10=#690000
+palette = 3=#FF5D05
+palette = 11=#6F2700
+palette = 4=#FF2044
+palette = 5=#FFEDCF
+palette = 12=#333333
+palette = 13=#FFFFB5
+palette = 6=#6F0027
+palette = 14=#F50056
+palette = 7=#FFDAF1
+palette = 15=#FFE6DA
+#white
+

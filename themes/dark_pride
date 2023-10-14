@@ -1,0 +1,26 @@
+## name: Dark Pride
+## author: apathyrecharge
+## license: GPLv3
+## blurb: Dark trans-pride colour inspired theme
+
+background = #0d0d1b
+foreground = #ccccce
+selection-background = #002a3a
+selection-foreground = #0d0f18
+cursor-color =#ff0017
+palette = 0=#282828
+palette = 1=#ca1444
+palette = 2=#789aba
+palette = 3=#b3879f
+palette = 4=#94469b
+palette = 5=#cb6fa1
+palette = 6=#fb6e93
+palette = 7=#cf98c1
+palette = 8=#98218e
+palette = 9=#cb515d
+palette = 10=#5a87b1
+palette = 11=#9c61ab
+palette = 12=#9a77b1
+palette = 13=#f2a297
+palette = 14=#f4436f
+palette = 15=#ebdbb2

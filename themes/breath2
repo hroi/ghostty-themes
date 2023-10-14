@@ -1,0 +1,51 @@
+## name: Breath2
+## author: b3yc0d3 <b3yc0d3@dnmx.org>
+## license: MIT
+## upstream: https://raw.githubusercontent.com/b3yc0d3/my-kitty-themes/main/themes/breath2.conf
+## blurb: Breath2 Theme for Kitty Terminal
+
+#: The basic colors
+foreground = #17a88b
+background = #1e2229
+selection-foreground = #1e2229
+selection-background = #00bc96
+
+#: Cursor
+cursor-color =#00bc96
+cursor-text =#1e2229
+
+#: URL underline color when hovering with mouse
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#0d0f11
+palette = 8=#2e3439
+
+#: red
+palette = 1=#c0392b
+palette = 9=#783228
+
+#: green
+palette = 2=#55a649
+palette = 10=#32642c
+
+#: yellow
+palette = 3=#fdbc4b
+palette = 11=#b65619
+
+#: blue
+palette = 4=#3daee9
+palette = 12=#1b668f
+
+#: magenta
+palette = 5=#8e44ad
+palette = 13=#614a73
+
+#: cyan
+palette = 6=#16a085
+palette = 14=#186c60
+
+#: white
+palette = 7=#ffffff
+palette = 15=#63686d

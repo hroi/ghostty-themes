@@ -1,0 +1,59 @@
+## name:     Cobalt2
+## author:   Lalit Kumar(@laltimee)
+## license:  MIT
+## upstream: https://github.com/lalitmee/kitty-cobalt2/blob/master/cobalt2.conf
+## blurb:    Don't stress your eyes now
+
+# The basic colors
+foreground = #FFFFFF
+background = #193549
+selection-foreground = #FFFFFF
+selection-background = #185294
+
+# Cursor colors
+cursor-color =#FFC600
+cursor-text =#1C1C1C
+
+# URL underline color when hovering with mouse
+
+# Kitty window border colors
+
+# OS Window titlebar colors
+
+# Tab bar colors
+
+# Colors for marks (marked text in the terminal)
+
+# The 16 terminal #88FF88#88FF88colors
+
+# black
+palette = 0=#1C1C1C
+palette = 8=#9E9E9E
+
+# red
+palette = 1=#FF0000
+palette = 9=#700009
+
+# green
+palette = 2=#3AD900
+palette = 10=#88FF88
+
+# yellow
+palette = 3=#FFC600
+palette = 11=#FF9A00
+
+# cyan
+palette = 6=#80FCFF
+palette = 14=#8fbfdc
+
+# magenta
+palette = 5=#FF628C
+palette = 13=#EE80E1
+
+# blue
+palette = 4=#00AAFF
+palette = 12=#0050A4
+
+# white
+palette = 7=#FFFFFF
+palette = 15=#BCBCBC

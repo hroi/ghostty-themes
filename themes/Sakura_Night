@@ -1,0 +1,44 @@
+
+## name: Sakura Night
+## license: MIT
+## author: PandaCatPlayz
+## upstream: https://pandacatplayz.github.io/kitty-themes/Sakura_Night.conf
+## blurb: A custom kitty dark theme loosely using the Endesga 32 palette
+
+background = #181425
+foreground = #F06292
+cursor-color =#F06292
+selection-background = #F06292
+
+#: black
+palette = 0=#181425
+palette = 8=#262b44
+
+#: red
+palette = 1=#e43b44
+palette = 9=#ff0044
+
+#: green
+palette = 2=#3e8948
+palette = 10=#63c74d
+
+#: yellow
+palette = 3=#feae34
+palette = 11=#fee761
+
+#: blue
+palette = 4=#124e89
+palette = 12=#0099db
+
+#: magenta
+palette = 5=#b55088
+palette = 13=#F06292
+
+#: cyan
+palette = 6=#008080
+palette = 14=#66b2b2
+
+#: white
+palette = 7=#c0cbdc
+palette = 15=#ffffff
+selection-foreground = #f7f7f7

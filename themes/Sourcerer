@@ -1,0 +1,40 @@
+# Drop these into your kitty.conf
+
+#   ██████  ██████  ██   ██ ██████  █████   █████  ██████  █████  ██████
+#  ██░░░░  ██░░░░██░██  ░██░░██░░████░░░██ ██░░░██░░██░░████░░░██░░██░░██
+# ░░█████ ░██   ░██░██  ░██ ░██ ░░░██  ░░ ░███████ ░██ ░░░███████ ░██ ░░
+#  ░░░░░██░██   ░██░██  ░██ ░██   ░██   ██░██░░░░  ░██   ░██░░░░  ░██   
+#  ██████ ░░██████ ░░██████░███   ░░█████ ░░██████░███   ░░██████░███   
+# ░░░░░░   ░░░░░░   ░░░░░░ ░░░     ░░░░░   ░░░░░░ ░░░     ░░░░░░ ░░░   
+#  r  e  a  d     c  o  d  e     l  i  k  e     a     w  i  z  a  r  d 
+#
+# sourcerer by xero harrison (http://sourcerer.xero.nu)
+#  ├─ based on sorcerer by Jeet Sukumaran (http://jeetworks.org)
+#  └─ based on mustang by Henrique C. Alves (hcarvalhoalves@gmail.com)
+
+# █▓▒░ scorcerer colors
+foreground = #c2c2b0
+background = #222222
+cursor-color =#c2c2b0
+selection-background = #c2c2b0
+selection-foreground = #222222
+
+palette = 0=#111111
+palette = 1=#aa4450
+palette = 2=#719611
+palette = 3=#ff9800
+palette = 4=#6688aa
+palette = 5=#8f6f8f
+palette = 6=#528b8b
+palette = 7=#d3d3d3
+palette = 8=#181818
+palette = 9=#ff6a6a
+palette = 10=#b1d631
+palette = 11=#87875f
+palette = 12=#90b0d1
+palette = 13=#8181a6
+palette = 14=#87ceeb
+palette = 15=#c1cdc1
+# colorIT      #719611
+# colorBD      #d3d3d3
+# colorUL #528b8b

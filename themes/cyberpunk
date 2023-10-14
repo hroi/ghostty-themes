@@ -1,0 +1,64 @@
+## name: Cyberpunk
+## license: MIT
+## upstream: https://raw.githubusercontent.com/jandre953/kitty-cyberpunk/master/cyberpunk.conf
+## blurb: A cyberpunk theme based on the Cyberpunk VIM Colorscheme by thedenisnikulin.
+
+#: The basic colors
+
+foreground = #FF0055
+background = #120B10
+selection-foreground = none
+selection-background = #563466
+
+
+#: Cursor colors
+
+cursor-color =#00FFC8
+cursor-text =background
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: kitty window border colors and terminal bell colors
+
+
+
+#: Tab bar colors
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#777777
+
+#: red
+palette = 1=#FF0055
+palette = 9=#FF4081
+
+#: green
+palette = 2=#009550
+palette = 10=#00FF9C
+
+#: yellow
+palette = 3=#F4EF00
+palette = 11=#FFFC58
+
+#: blue
+palette = 4=#6766B3
+palette = 12=#76C1FF
+
+#: magenta
+palette = 5=#D57BFF
+palette = 13=#C592FF
+
+#: cyan
+palette = 6=#0DCDCD
+palette = 14=#00FFC8
+
+#: white
+palette = 7=#EEFFFF
+palette = 15=#FFFFFF

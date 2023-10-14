@@ -1,0 +1,52 @@
+
+## name: Kaolin Breeze
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Light Kaolin theme with soft colors
+
+
+# The basic colors
+foreground = #383e3f
+background = #EBE8E4
+selection-foreground = #EBE8E4
+selection-background = #383e3f
+
+# Cursor colors
+cursor-color =#383e3f
+cursor-text =#EBE8E4
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#383e3f
+palette = 8=#7D8468
+
+# red
+palette = 1=#cd5c60
+palette = 9=#ef6787
+
+# green
+palette = 2=#39855f
+palette = 10=#3e594e
+
+# yellow
+palette = 3=#b87e3c
+palette = 11=#d1832e
+
+# blue
+palette = 4=#2683b5
+palette = 12=#4F9CB8
+
+# magenta
+palette = 5=#845A84
+palette = 13=#605DB3
+
+# cyan
+palette = 6=#48a9a9
+palette = 14=#008b8b
+
+# white
+palette = 7=#C9C2BD
+palette = 15=#60696b

@@ -1,0 +1,52 @@
+
+## name: Kaolin Dark
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Dark jade theme inspired by Sierra.vim.
+
+
+# The basic colors
+foreground = #E4E4E8
+background = #18181B
+selection-foreground = #18181B
+selection-background = #E4E4E8
+
+# Cursor colors
+cursor-color =#E4E4E8
+cursor-text =#ffffff
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#4B5254
+palette = 8=#879193
+
+# red
+palette = 1=#CD5C60
+palette = 9=#E36D5B
+
+# green
+palette = 2=#6FB593
+palette = 10=#72CCBA
+
+# yellow
+palette = 3=#DBAC66
+palette = 11=#F2C866
+
+# blue
+palette = 4=#91B9C7
+palette = 12=#97B8DE
+
+# magenta
+palette = 5=#845A84
+palette = 13=#8C629C
+
+# cyan
+palette = 6=#4D9391
+palette = 14=#5096AB
+
+# white
+palette = 7=#E4E4E8
+palette = 15=#EFEFF1

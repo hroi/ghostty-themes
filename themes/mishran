@@ -1,0 +1,57 @@
+
+## name: Mishran
+## author: Anupam Srivastava
+## license: GPL-3
+## upstream: https://github.com/kovidgoyal/kitty-themes
+## blurb: A mixtures of different themes that work well with powerlevel10k
+
+#: All the settings below are colors, which you can choose to modify, or use the
+#: defaults. You can also add non-color based settings if needed but note that
+#: these will not work with using kitty @ set-colors with this theme. For a
+#: reference on what these settings do see https://sw.kovidgoyal.net/kitty/conf/
+
+#: The basic colors
+
+foreground = #bebebe
+background = #000000
+
+
+#: Cursor colors
+
+cursor-color =#ff6d0a
+cursor-text =#111111
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#4e4e4e
+palette = 8=#7c7c7c
+
+#: red
+palette = 1=#ff6c60
+palette = 9=#ffb6b0
+
+#: green
+palette = 2=#a8ff60
+palette = 10=#ceffab
+
+#: yellow
+palette = 3=#ffffb6
+palette = 11=#ffffcb
+
+#: blue
+palette = 4=#96cbfe
+palette = 12=#b5dcfe
+
+#: magenta
+palette = 5=#ff73fd
+palette = 13=#ff9cfe
+
+#: cyan
+palette = 6=#c6c5fe
+palette = 14=#dfdffe
+
+#: white
+palette = 7=#eeeeee
+palette = 15=#ffffff

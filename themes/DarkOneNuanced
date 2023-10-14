@@ -1,0 +1,63 @@
+# Dark One Nuanced by ariasuni, https://store.kde.org/p/1225908
+# Imported from KDE .colorscheme format by thematdev, https://thematdev.org
+# For migrating your schemes from Konsole format see 
+# https://git.thematdev.org/thematdev/konsole-scheme-migration
+
+
+# importing Background
+background = #282c34
+# importing BackgroundFaint
+# importing BackgroundIntense
+# importing Color0
+palette = 0=#3f4451
+# importing Color0Faint
+palette = 16=#282c34
+# importing Color0Intense
+palette = 8=#4f5666
+# importing Color1
+palette = 1=#e06c75
+# importing Color1Faint
+palette = 17=#c25d66
+# importing Color1Intense
+palette = 9=#ff7b86
+# importing Color2
+palette = 2=#98c379
+# importing Color2Faint
+palette = 18=#82a566
+# importing Color2Intense
+palette = 10=#b1e18b
+# importing Color3
+palette = 3=#d19a66
+# importing Color3Faint
+palette = 19=#b38257
+# importing Color3Intense
+palette = 11=#efb074
+# importing Color4
+palette = 4=#61afef
+# importing Color4Faint
+palette = 20=#5499d1
+# importing Color4Intense
+palette = 12=#67cdff
+# importing Color5
+palette = 5=#c678dd
+# importing Color5Faint
+palette = 21=#a966bd
+# importing Color5Intense
+palette = 13=#e48bff
+# importing Color6
+palette = 6=#56b6c2
+# importing Color6Faint
+palette = 22=#44919a
+# importing Color6Intense
+palette = 14=#63d4e0
+# importing Color7
+palette = 7=#e6e6e6
+# importing Color7Faint
+palette = 23=#c8c8c8
+# importing Color7Intense
+palette = 15=#ffffff
+# importing Foreground
+foreground = #abb2bf
+# importing ForegroundFaint
+# importing ForegroundIntense
+# importing General

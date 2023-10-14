@@ -1,0 +1,68 @@
+## name: Kurayami
+## author: Kevin M (github.com/kevinm6)
+## license: MIT
+## upstream: https://github.com/kevinm6/kitty-themes/blob/master/themes/kurayami.conf
+
+
+# The basic colors
+foreground = #cccccc
+background = #1c1c1c
+selection-foreground = #cccccc
+selection-background = #264f78
+
+# Cursor colors
+cursor-color =#ffffff
+cursor-text =#3c3c3c
+
+# kitty window border colors
+
+# Tab bar colors
+
+#: OS Window titlebar colors
+
+# Url
+
+
+# black
+palette = 0=#2c2c2c
+palette = 8=#626262
+
+# red
+palette = 1=#bf616a
+palette = 9=#b2201f
+
+# green
+palette = 2=#00af87
+palette = 10=#36F57A
+
+# yellow
+palette = 3=#cecb00
+palette = 11=#fffd00
+
+# blue
+palette = 4=#158C8A
+palette = 12=#1a8fff
+
+# purple
+palette = 5=#B48EAD
+palette = 13=#cb1ed1
+
+# cyan
+palette = 6=#1a8fff
+palette = 14=#14ffff
+
+# white
+palette = 7=#dcdcdc
+palette = 15=#ffffff
+
+
+#: Colors for marks (marked text in the terminal)
+#: Color for marks of type 1
+
+#: Color for marks of type 1 (light steel blue)
+
+#: Color for marks of type 2
+
+#: Color for marks of type 1 (beige)
+
+#: Color for marks of type 3

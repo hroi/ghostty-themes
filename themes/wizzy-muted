@@ -1,0 +1,51 @@
+
+## name: Wizzy Muted
+## license: MIT
+## author: erin
+## upstream: https://github.com/erincerys/kitty-themes/blob/master/themes/wizzy-muted.conf
+## blurb: A variant of Wryan for a certain special Lain
+
+background = #100814
+selection-background = #4d4d4d
+cursor-color =#9d9eca
+
+# a nearly imperceptible purple
+foreground = #b2b8c4
+# alternate, deeper shades of purple
+#foreground              #8a8dae
+#foreground              #9b9ebf
+selection-foreground = #101010
+
+# black
+palette = 0=#444444
+palette = 8=#4e4e4e
+
+# red
+palette = 1=#9d5776
+palette = 9=#cf5e91
+
+# green
+palette = 2=#398484
+palette = 10=#64b7b7
+
+# yellow
+palette = 3=#6b6b88
+palette = 11=#8d8dba
+
+# blue
+palette = 4=#4a6684
+palette = 12=#588bc4
+
+# magenta
+palette = 5=#6f579d
+palette = 13=#8f73c4
+
+# cyan
+palette = 6=#42769d
+palette = 14=#71a7cf
+
+# white
+palette = 7=#9aadb2
+palette = 15=#d1d1d1
+
+# tab bar

@@ -1,0 +1,69 @@
+
+## name: Neowave
+## author: Everett Howard (neveretth)
+## license: MIT license - https://www.mit.edu/~amini/LICENSE.md
+## blurb: A very vibrant and very neon colorscheme.
+
+#: The basic colors
+
+foreground = #00ffff
+background = #161021
+selection-foreground = #000000
+selection-background = #50ff50
+
+
+#: Cursor colors
+
+cursor-color =#00ffff
+cursor-text =#161021
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: kitty window border colors and terminal bell colors
+
+
+
+#: Tab bar colors
+
+
+
+#: Colors for marks (marked text in the terminal)
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#123e7c
+palette = 8=#1c61c2
+
+#: red
+palette = 1=#ff0000
+palette = 9=#ff0000
+
+#: green
+palette = 2=#df00df
+palette = 10=#df00df
+
+#: yellow
+palette = 3=#ff7f00
+palette = 11=#ff7f00
+
+#: blue
+palette = 4=#00ff00
+palette = 12=#00ff00
+
+#: magenta
+palette = 5=#c11cd1
+palette = 13=#711c91
+
+#: cyan
+palette = 6=#0afdf6
+palette = 14=#0afdf6
+
+#: white
+palette = 7=#d7d7d5
+palette = 15=#d7d7d5

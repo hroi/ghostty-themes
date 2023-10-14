@@ -1,0 +1,37 @@
+
+## name: Adwaita darker
+## license: MIT
+## author: Emil Löfquist (https://github.com/ewal)
+## upstream: https://github.com/ewal/kitty-adwaita/blob/main/adwaita_darker.conf
+## blurb: Adwaita darker - based on https://github.com/Mofiqul/adwaita.nvim
+
+background = #000000
+foreground = #deddda
+
+selection-background = #1c1c1c
+selection-foreground = #c0bfbc
+
+
+
+cursor-color =#deddda
+cursor-text =#000000
+
+
+
+palette = 0=#000000
+palette = 1=#ed333b
+palette = 2=#57e389
+palette = 3=#ff7800
+palette = 4=#62a0ea
+palette = 5=#9141ac
+palette = 6=#5bc8af
+palette = 7=#deddda
+
+palette = 8=#9a9996
+palette = 9=#f66151
+palette = 10=#8ff0a4
+palette = 11=#ffa348
+palette = 12=#99c1f1
+palette = 13=#dc8add
+palette = 14=#93ddc2
+palette = 15=#f6f5f4

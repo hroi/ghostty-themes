@@ -1,0 +1,62 @@
+
+## name:     Catppuccin-Latte
+## author:   Pocco81 (https://github.com/Pocco81)
+## license:  MIT
+## upstream: https://github.com/catppuccin/kitty/blob/main/latte.conf
+## blurb:    Soothing pastel theme for the high-spirited!
+
+
+
+# The basic colors
+foreground = #4C4F69
+background = #EFF1F5
+selection-foreground = #EFF1F5
+selection-background = #DC8A78
+
+# Cursor colors
+cursor-color =#DC8A78
+cursor-text =#EFF1F5
+
+# URL underline color when hovering with mouse
+
+# Kitty window border colors
+
+# OS Window titlebar colors
+
+# Tab bar colors
+
+# Colors for marks (marked text in the terminal)
+
+# The 16 terminal colors
+
+# black
+palette = 0=#5C5F77
+palette = 8=#6C6F85
+
+# red
+palette = 1=#D20F39
+palette = 9=#D20F39
+
+# green
+palette = 2=#40A02B
+palette = 10=#40A02B
+
+# yellow
+palette = 3=#DF8E1D
+palette = 11=#DF8E1D
+
+# blue
+palette = 4=#1E66F5
+palette = 12=#1E66F5
+
+# magenta
+palette = 5=#EA76CB
+palette = 13=#EA76CB
+
+# cyan
+palette = 6=#179299
+palette = 14=#179299
+
+# white
+palette = 7=#ACB0BE
+palette = 15=#BCC0CC

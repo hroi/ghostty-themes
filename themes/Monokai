@@ -1,0 +1,34 @@
+# Monokai
+
+background = #272822
+foreground = #f8f8f2
+cursor-color =#f8f8f2
+selection-background = #f8f8f2
+selection-foreground = #272822
+
+# 16 Color Space
+
+# black
+palette = 0=#272822
+palette = 8=#75715e
+# red
+palette = 1=#f92672
+palette = 9=#f92672
+# green
+palette = 2=#a6e22e
+palette = 10=#a6e22e
+# yellow
+palette = 3=#e6db74
+palette = 11=#e6db74
+# blue
+palette = 4=#66d9ef
+palette = 12=#66d9ef
+# magenta
+palette = 5=#fd971f
+palette = 13=#fd971f
+# cyan
+palette = 6=#ae81ff
+palette = 14=#ae81ff
+# white
+palette = 7=#f8f8f2
+palette = 15=#f8f8f2

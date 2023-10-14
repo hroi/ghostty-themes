@@ -1,0 +1,42 @@
+## name: One Half Dark
+## author: Son A. Pham
+## license: MIT
+## upstream: https://raw.githubusercontent.com/sonph/onehalf/master/kitty/onehalf-dark.conf
+## blurb: Clean, vibrant and pleasing color scheme
+
+foreground = #dcdfe4
+background = #282c34
+selection-foreground = #000000
+selection-background = #FFFACD
+
+# black
+palette = 0=#282c34
+palette = 8=#5d677a
+
+# red
+palette = 1=#e06c75
+palette = 9=#e06c75
+
+# green
+palette = 2=#98c379
+palette = 10=#98c379
+
+# yellow
+palette = 3=#e5c07b
+palette = 11=#e5c07b
+
+# blue
+palette = 4=#61afef
+palette = 12=#61afef
+
+# magenta
+palette = 5=#c678dd
+palette = 13=#c678dd
+
+# cyan
+palette = 6=#56b6c2
+palette = 14=#56b6c2
+
+# white
+palette = 7=#dcdfe4
+palette = 15=#dcdfe4

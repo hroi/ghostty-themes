@@ -1,0 +1,66 @@
+## name: Alabaster Dark
+## author: Nikita Prokopov
+## license: MIT
+## upstream: https://raw.githubusercontent.com/anmolmathias/kitty-alabaster/master/alabaster-dark.conf
+## blurb: A dark color scheme adapted from Alabaster for the kitty terminal.
+
+#: The basic colors
+
+foreground = #cecece
+background = #0e1415
+
+selection-foreground = #cecece
+selection-background = #293334
+
+
+#: Cursor colors
+
+cursor-color =#cd974b
+cursor-text =#000000
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#777777
+
+#: red
+palette = 1=#e25d56
+palette = 9=#f36868
+
+#: green
+palette = 2=#73ca50
+palette = 10=#88db3f
+
+#: yellow
+palette = 3=#e9bf57
+palette = 11=#f0bf7a
+
+#: blue
+palette = 4=#4a88e4
+palette = 12=#6f8fdb
+
+#: magenta
+palette = 5=#915caf
+palette = 13=#e987e9
+
+#: cyan
+palette = 6=#23acdd
+palette = 14=#4ac9e2
+
+#: white
+palette = 7=#cecece
+palette = 15=#ffffff
+
+
+#: kitty window border colors and terminal bell colors
+
+
+
+#: Tab bar colors
+

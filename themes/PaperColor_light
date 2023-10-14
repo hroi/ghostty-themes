@@ -1,0 +1,43 @@
+
+## name: PaperColor Light
+## author: Nikyle Nguyen
+## license: MIT
+## blurb: Light color scheme inspired by Google's Material Design 
+
+# special
+foreground = #444444
+background = #eeeeee
+cursor-color =#444444
+cursor-text =background
+
+# black
+palette = 0=#eeeeee
+palette = 8=#bcbcbc
+
+# red
+palette = 1=#af0000
+palette = 9=#d70000
+
+# green
+palette = 2=#008700
+palette = 10=#d70087
+
+# yellow
+palette = 3=#5f8700
+palette = 11=#8700af
+
+# blue
+palette = 4=#0087af
+palette = 12=#d75f00
+
+# magenta
+palette = 5=#878787
+palette = 13=#d75f00
+
+# cyan
+palette = 6=#005f87
+palette = 14=#005faf
+
+# white
+palette = 7=#444444
+palette = 15=#005f87

@@ -1,0 +1,52 @@
+
+## name: Kaolin Temple
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Dark theme where terrestrial sphere imbues the spirit
+
+
+# The basic colors
+foreground = #EEDCC1
+background = #2B2B2F
+selection-foreground = #2B2B2F
+selection-background = #EEDCC1
+
+# Cursor colors
+cursor-color =#EEDCC1
+cursor-text =#2B2B2F
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#2B2B2F
+palette = 8=#697375
+
+# red
+palette = 1=#ef6787
+palette = 9=#BA667D
+
+# green
+palette = 2=#47ba99
+palette = 10=#74B09A
+
+# yellow
+palette = 3=#eed891
+palette = 11=#f5c791
+
+# blue
+palette = 4=#4EB8CA
+palette = 12=#91b9c7
+
+# magenta
+palette = 5=#fbaed2
+palette = 13=#c791aa
+
+# cyan
+palette = 6=#49bdb0
+palette = 14=#4FA8A3
+
+# white
+palette = 7=#EEDCC1
+palette = 15=#bebec4

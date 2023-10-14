@@ -1,0 +1,49 @@
+## name: shadotheme
+## author: Shadorain (kitty port by kelpwave) 
+## blurb:  The ultimate purple and pink dark cherry blossom theme! 
+## license: The BSD 3-Clause License
+
+foreground = #e3c7fc
+background = #191724
+selection-foreground = #f1c4e0
+selection-background = #140a1d
+
+cursor-color =#f1c4e0
+cursor-text =#140a1d
+
+
+
+
+
+# black
+palette = 0=#140a1d
+palette = 8=#a8899c
+
+# red
+palette = 1=#B52A5B
+palette = 9=#B52A5B
+
+# green
+palette = 2=#FF4971
+palette = 10=#FF4971
+
+# yellow
+palette = 3=#8897F4
+palette = 11=#8897F4
+
+# blue
+palette = 4=#bd93f9
+palette = 12=#bd93f9
+
+# magenta
+palette = 5=#E9729D
+palette = 13=#E9729D
+
+# cyan
+palette = 6=#F18FB0
+palette = 14=#F18FB0
+
+# white
+palette = 7=#f1c4e0
+palette = 15=#f1c4e0
+

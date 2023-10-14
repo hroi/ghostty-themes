@@ -1,0 +1,60 @@
+
+## name: Flexoki (Light)
+## author: Kepano
+## license: MIT
+## upstream: https://raw.githubusercontent.com/kepano/flexoki/main/kitty/flexoki_light.conf
+## blurb: An inky color scheme for prose and code
+
+# The basic colors
+foreground = #100F0F
+background = #FFFCF0
+selection-foreground = #100F0F
+selection-background = #CECDC3
+
+# Cursor colors
+cursor-color =#100F0F
+cursor-text =#FFFCF0
+
+# kitty window border colors
+
+# Tab bar colors
+
+# The basic 16 colors
+# black
+palette = 0=#100F0F
+palette = 8=#6F6E69
+
+
+# red
+palette = 1=#D14D41
+palette = 9=#AF3029
+
+
+# green
+palette = 2=#879A39
+palette = 10=#66800B
+
+
+# yellow
+palette = 3=#D0A215
+palette = 11=#AD8301
+
+
+# blue
+palette = 4=#4385BE
+palette = 12=#205EA6
+
+
+# magenta
+palette = 5=#CE5D97
+palette = 13=#A02F6F
+
+
+# cyan
+palette = 6=#3AA99F
+palette = 14=#24837B
+
+
+# white
+palette = 7=#FFFCF0
+palette = 15=#F2F0E5

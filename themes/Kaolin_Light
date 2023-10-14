@@ -1,0 +1,52 @@
+
+## name: Kaolin Light
+## author: Ogden Webb
+## license: GNU GPLv3
+## blurb: Light variant of the original Kaolin Dark theme.
+
+
+# The basic colors
+foreground = #353b3c
+background = #EDEEEB
+selection-foreground = #EDEEEB
+selection-background = #353b3c
+
+# Cursor colors
+cursor-color =#353b3c
+cursor-text =#EDEEEB
+
+# kitty window border colors
+
+# Tab bar colors
+
+# black
+palette = 0=#353b3c
+palette = 8=#4b5254
+
+# red
+palette = 1=#e84c58
+palette = 9=#e84c58
+
+# green
+palette = 2=#13665F
+palette = 10=#317A56
+
+# yellow
+palette = 3=#E36B3F
+palette = 11=#C5882C
+
+# blue
+palette = 4=#3B84CC
+palette = 12=#4C7A90
+
+# magenta
+palette = 5=#a9779c
+palette = 13=#6D46E3
+
+# cyan
+palette = 6=#6facb3
+palette = 14=#008b8b
+
+# white
+palette = 7=#C8CCC3
+palette = 15=#4b5254

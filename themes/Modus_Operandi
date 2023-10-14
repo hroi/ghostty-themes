@@ -1,0 +1,53 @@
+
+## name: Modus Operandi
+## author: Protesilaos Stavrou
+## license: GNU GPLv3
+## blurb: Highly accessible themes made for GNU Emacs, conforming with the highest
+## standard for colour contrast between background and foreground values (WCAG AAA)
+
+# The basic colors
+foreground = #000000
+background = #ffffff
+selection-foreground = #000000
+selection-background = #bcbcbc
+
+# Cursor colors
+cursor-color =#000000
+cursor-text =#ffffff
+
+# kitty window border colors
+
+# Tab bar colors
+
+# The basic 16 colors
+# black
+palette = 0=#000000
+palette = 8=#585858
+
+# red
+palette = 1=#a60000
+palette = 9=#972500
+
+# green
+palette = 2=#006800
+palette = 10=#316500
+
+# yellow
+palette = 3=#6f5500
+palette = 11=#884900
+
+# blue
+palette = 4=#0031a9
+palette = 12=#354fcf
+
+# magenta
+palette = 5=#721045
+palette = 13=#531ab6
+
+# cyan
+palette = 6=#00538b
+palette = 14=#005a5f
+
+# white
+palette = 7=#c4c4c4
+palette = 15=#595959

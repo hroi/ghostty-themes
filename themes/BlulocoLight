@@ -1,0 +1,88 @@
+
+## name: Bluloco Light
+## author: Umut Topuzoğlu
+## license: LGPL-3.0
+## upstream: https://github.com/uloco/bluloco.nvim/blob/main/terminal-themes/kitty/BlulocoLight.conf
+
+## blurb: A fancy and sophisticated light designer color theme
+
+#: The basic colors
+
+foreground = #373a41
+background = #f9f9f9
+selection-background = #DAF1FF
+selection-foreground = #373a41
+
+
+#: Cursor colors
+
+cursor-color =#f32759
+cursor-text =#373a41
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: kitty window border colors and terminal bell colors
+
+# active_border_color             #00ff00
+# inactive_border_color           #cccccc
+# bell_border_color               #ff5a00
+# visual_bell_color               none
+
+
+#: OS Window titlebar colors
+
+
+
+#: Tab bar colors
+
+
+
+#: Colors for marks (marked text in the terminal)
+
+# mark1_foreground black
+# mark1_background #98d3cb
+# mark2_foreground black
+# mark2_background #f2dcd3
+# mark3_foreground black
+# mark3_background #f274bc
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#373a41
+palette = 8=#676a77
+
+#: red
+palette = 1=#d52753
+palette = 9=#ff6480
+
+#: green
+palette = 2=#23974a
+palette = 10=#3cbc66
+
+#: yellow
+palette = 3=#df631c
+palette = 11=#c5a332
+
+#: blue
+palette = 4=#275fe4
+palette = 12=#0099e1
+
+#: magenta
+palette = 5=#823ff1
+palette = 13=#ce33c0
+
+#: cyan
+palette = 6=#27618d
+palette = 14=#6d93bb
+
+#: white
+palette = 7=#babbc2
+palette = 15=#d3d3d3
+
+
+#: You can set the remaining 240 colors as color16 to color255.

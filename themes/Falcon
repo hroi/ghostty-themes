@@ -1,0 +1,51 @@
+# Drop these into your kitty.conf
+
+# The cursor color
+cursor-color =#ffe8c0
+
+# The foreground color
+foreground = #b4b4b9
+
+# The background color
+background = #020221
+
+# The foreground for selections
+selection-foreground = #36363a
+
+# The background for selections
+selection-background = #ddcfbf
+
+# The 16 terminal colors. There are 8 basic colors, each color has a dull and
+# bright version.
+
+# black
+palette = 0=#000004
+palette = 8=#020221
+
+# red
+palette = 1=#ff3600
+palette = 9=#ff8e78
+
+# green
+palette = 2=#718e3f
+palette = 10=#b1bf75
+
+# yellow
+palette = 3=#ffc552
+palette = 11=#ffd392
+
+# blue (purple and blue!)
+palette = 4=#635196
+palette = 12=#99a4bc
+
+# magenta (orange)
+palette = 5=#ff761a
+palette = 13=#ffb07b
+
+# cyan
+palette = 6=#34bfa4
+palette = 14=#8bccbf
+
+# white
+palette = 7=#b4b4b9
+palette = 15=#f8f8ff

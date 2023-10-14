@@ -1,0 +1,23 @@
+# Theme ported from the Mac Terminal application.
+
+background = #12773d
+foreground = #fff0a4
+cursor-color =#8b2800
+selection-background = #b64825
+palette = 0=#000000
+palette = 8=#545454
+palette = 1=#ba0000
+palette = 9=#ba0000
+palette = 2=#00ba00
+palette = 10=#00ba00
+palette = 3=#e6af00
+palette = 11=#e6af00
+palette = 4=#0000a3
+palette = 12=#0000ba
+palette = 5=#950062
+palette = 13=#ff54ff
+palette = 6=#00baba
+palette = 14=#54ffff
+palette = 7=#bababa
+palette = 15=#ffffff
+selection-foreground = #12773d

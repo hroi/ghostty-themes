@@ -1,0 +1,46 @@
+
+## name: Aquarium Dark
+## license: MIT
+## author: Detective Pikachu
+## upstream: https://github.com/FrenzyExists/aquarium-vim/raw/develop/extras/kitty_aquarium_dark.conf
+## blurb: A simple vibrant dark theme Kitty terminal.
+
+foreground = #C6D0E9
+background = #20202A
+selection-foreground = #2E3440
+selection-background = #A8B6D0
+
+# black
+palette = 0=#3b3b4d
+palette = 8=#1b1b23
+
+# red
+palette = 1=#ebb9b9
+palette = 9=#d95e59
+
+# green
+palette = 2=#caf6bb
+palette = 10=#8fc587
+
+# yellow
+palette = 3=#E6DFB8
+palette = 11=#ffcf85
+
+# blue
+palette = 4=#cddbf9
+palette = 12=#4a83c3
+
+# magenta
+palette = 5=#f6bbe7
+palette = 13=#bf83b5
+
+# cyan
+palette = 6=#b8dceb
+palette = 14=#4eb3cd
+
+# white
+palette = 7=#c8cedc
+palette = 15=#abb2c2
+
+# Cursor
+cursor-color =#b8dceb

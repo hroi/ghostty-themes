@@ -1,0 +1,51 @@
+
+## name: Wizzy Bright
+## license: MIT
+## author: erin
+## upstream: https://github.com/erincerys/kitty-themes/blob/master/themes/wizzy-bright.conf
+## blurb: A variant of Wryan for a certain special Lain
+
+background = #100814
+selection-background = #4d4d4d
+cursor-color =#9d9eca
+
+# a nearly imperceptible purple
+foreground = #b2b8c4
+# alternate, deeper shades of purple
+#foreground              #8a8dae
+#foreground              #9b9ebf
+selection-foreground = #101010
+
+# black
+palette = 0=#666666
+palette = 8=#6f6f6f
+
+# red
+palette = 1=#bf7998
+palette = 9=#cf7fb3
+
+# green
+palette = 2=#5ba6a6
+palette = 10=#75c8c8
+
+# yellow
+palette = 3=#8d8daa
+palette = 11=#afafdc
+
+# blue
+palette = 4=#6c88a6
+palette = 12=#7aade6
+
+# magenta
+palette = 5=#8f79bf
+palette = 13=#af95e6
+
+# cyan
+palette = 6=#6498bf
+palette = 14=#82b8df
+
+# white
+palette = 7=#abbec5
+palette = 15=#bccfd4
+
+# tab bar

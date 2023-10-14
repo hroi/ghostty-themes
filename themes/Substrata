@@ -1,0 +1,25 @@
+# Substrata Theme <https://github.com/arzg/vim-substrata>
+# Licence: [ISC License](https://opensource.org/licenses/ISC)
+
+foreground = #b5b4c9
+background = #191c25
+
+selection-foreground = #191c25
+selection-background = #b5b4c9
+
+palette = 0=#2e313d
+palette = 8=#5b5f71
+palette = 1=#cf8164
+palette = 9=#fe9f7c
+palette = 2=#76a065
+palette = 10=#92c47e
+palette = 3=#ab924c
+palette = 11=#d2b45f
+palette = 4=#8296b0
+palette = 12=#a0b9d8
+palette = 5=#a18daf
+palette = 13=#c6aed7
+palette = 6=#659ea2
+palette = 14=#7dc2c7
+palette = 7=#b5b4c9
+palette = 15=#f0ecfe

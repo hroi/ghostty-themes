@@ -1,0 +1,62 @@
+
+## name:     Catppuccin-Frappe
+## author:   Pocco81 (https://github.com/Pocco81)
+## license:  MIT
+## upstream: https://github.com/catppuccin/kitty/blob/main/frappe.conf
+## blurb:    Soothing pastel theme for the high-spirited!
+
+
+
+# The basic colors
+foreground = #C6D0F5
+background = #303446
+selection-foreground = #303446
+selection-background = #F2D5CF
+
+# Cursor colors
+cursor-color =#F2D5CF
+cursor-text =#303446
+
+# URL underline color when hovering with mouse
+
+# Kitty window border colors
+
+# OS Window titlebar colors
+
+# Tab bar colors
+
+# Colors for marks (marked text in the terminal)
+
+# The 16 terminal colors
+
+# black
+palette = 0=#51576D
+palette = 8=#626880
+
+# red
+palette = 1=#E78284
+palette = 9=#E78284
+
+# green
+palette = 2=#A6D189
+palette = 10=#A6D189
+
+# yellow
+palette = 3=#E5C890
+palette = 11=#E5C890
+
+# blue
+palette = 4=#8CAAEE
+palette = 12=#8CAAEE
+
+# magenta
+palette = 5=#F4B8E4
+palette = 13=#F4B8E4
+
+# cyan
+palette = 6=#81C8BE
+palette = 14=#81C8BE
+
+# white
+palette = 7=#B5BFE2
+palette = 15=#A5ADCE

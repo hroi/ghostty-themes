@@ -1,0 +1,42 @@
+
+## name: Tokyo Night Moon
+## license: MIT
+## author: Folke Lemaitre
+## upstream: https://github.com/folke/tokyonight.nvim/raw/main/extras/kitty/tokyonight_moon.conf
+
+
+background = #222436
+foreground = #c8d3f5
+selection-background = #3654a7
+selection-foreground = #c8d3f5
+cursor-color =#c8d3f5
+cursor-text =#222436
+
+# Tabs
+#tab_bar_background #1b1d2b
+
+# Windows
+
+# normal
+palette = 0=#1b1d2b
+palette = 1=#ff757f
+palette = 2=#c3e88d
+palette = 3=#ffc777
+palette = 4=#82aaff
+palette = 5=#c099ff
+palette = 6=#86e1fc
+palette = 7=#828bb8
+
+# bright
+palette = 8=#444a73
+palette = 9=#ff757f
+palette = 10=#c3e88d
+palette = 11=#ffc777
+palette = 12=#82aaff
+palette = 13=#c099ff
+palette = 14=#86e1fc
+palette = 15=#c8d3f5
+
+# extended colors
+palette = 16=#ff966c
+palette = 17=#c53b53

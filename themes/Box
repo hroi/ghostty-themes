@@ -1,0 +1,81 @@
+#: This is a template that can be used to create new kitty themes.
+#: Theme files should start with a metadata block consisting of
+#: lines beginning with ##. All metadata fields are optional.
+
+## name: Box
+## author: D3vil0p3r
+## license: GPLv3
+## blurb: Hack The Box inspired colorscheme.
+
+#: All the settings below are colors, which you can choose to modify, or use the
+#: defaults. You can also add non-color based settings if needed but note that
+#: these will not work with using kitty @ set-colors with this theme. For a
+#: reference on what these settings do see https://sw.kovidgoyal.net/kitty/conf/
+
+#: The basic colors
+
+foreground = #9fef00
+background = #141d2b
+selection-foreground = #141d2b
+selection-background = #a4b1cd
+
+
+#: Cursor colors
+
+cursor-color =#9fef00
+cursor-text =#111111
+
+
+#: URL underline color when hovering with mouse
+
+
+
+#: kitty window border colors and terminal bell colors
+
+
+
+#: OS Window titlebar colors
+
+
+
+#: Tab bar colors
+
+
+
+#: Colors for marks (marked text in the terminal)
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#767676
+
+#: red
+palette = 1=#cc0403
+palette = 9=#f2201f
+
+#: green
+palette = 2=#19cb00
+palette = 10=#23fd00
+
+#: yellow
+palette = 3=#cecb00
+palette = 11=#fffd00
+
+#: blue
+palette = 4=#0d73cc
+palette = 12=#1a8fff
+
+#: magenta
+palette = 5=#cb1ed1
+palette = 13=#fd28ff
+
+#: cyan
+palette = 6=#0dcdcd
+palette = 14=#14ffff
+
+#: white
+palette = 7=#dddddd
+palette = 15=#ffffff

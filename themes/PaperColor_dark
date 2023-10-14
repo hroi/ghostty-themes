@@ -1,0 +1,43 @@
+
+## name: PaperColor Dark
+## author: Nikyle Nguyen
+## license: MIT
+## blurb: Dark color scheme inspired by Google's Material Design 
+
+# special
+foreground = #d0d0d0
+background = #1c1c1c
+cursor-color =#d0d0d0
+cursor-text =background
+
+# black
+palette = 0=#1c1c1c
+palette = 8=#585858
+
+# red
+palette = 1=#af005f
+palette = 9=#5faf5f
+
+# green
+palette = 2=#5faf00
+palette = 10=#afd700
+
+# yellow
+palette = 3=#d7af5f
+palette = 11=#af87d7
+
+# blue
+palette = 4=#5fafd7
+palette = 12=#ffaf00
+
+# magenta
+palette = 5=#808080
+palette = 13=#ff5faf
+
+# cyan
+palette = 6=#d7875f
+palette = 14=#00afaf
+
+# white
+palette = 7=#d0d0d0
+palette = 15=#5f8787

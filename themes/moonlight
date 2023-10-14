@@ -1,0 +1,33 @@
+
+## name: moonlight
+## author: Ramon Saraiva
+## license: MIT
+## upstream: https://raw.githubusercontent.com/ramonsaraiva/kitty-moonlight/main/moonlight.conf
+## blurb: A port of moonlight vscode extension for kitty terminal
+
+foreground = #e4f3fa
+background = #212337
+selection-foreground = #e4f3fa
+selection-background = #403c64
+
+cursor-color =#5cb4fc
+cursor-text =#111111
+
+
+
+palette = 0=#000000
+palette = 8=#767676
+palette = 1=#ff757f
+palette = 9=#f78b92
+palette = 2=#2df4c0
+palette = 10=#4ff0c6
+palette = 3=#ffc777
+palette = 11=#fcce8b
+palette = 4=#04d1f9
+palette = 12=#2ddbfc
+palette = 5=#ecb2f0
+palette = 13=#ebc5ed
+palette = 6=#b994f1
+palette = 14=#bf9ef0
+palette = 7=#eeffff
+palette = 15=#edf7f7

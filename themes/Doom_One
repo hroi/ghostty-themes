@@ -1,0 +1,52 @@
+
+## name: Doom One
+## author: Henrik Lissner <https://github.com/hlissner>
+## license: MIT
+## blurb: Inspired by Atom's One Dark color scheme.
+
+# The basic colors
+foreground = #bbc2cf
+background = #282c34
+selection-foreground = #bbc2cf
+selection-background = #3f444a
+
+# Cursor colors
+cursor-color =#bbc2cf
+cursor-text =#282c34
+
+# kitty window border colors
+
+# Tab bar colors
+
+# The basic 16 colors
+# black
+palette = 0=#2a2e38
+palette = 8=#3f444a
+
+# red
+palette = 1=#ff6c6b
+palette = 9=#ff6655
+
+# green
+palette = 2=#98be65
+palette = 10=#99bb66
+
+# yellow
+palette = 3=#ECBE7B
+palette = 11=#ECBE7B
+
+# blue
+palette = 4=#51afef
+palette = 12=#51afef
+
+# magenta
+palette = 5=#c678dd
+palette = 13=#c678dd
+
+# cyan
+palette = 6=#46D9FF
+palette = 14=#46D9FF
+
+# white
+palette = 7=#DFDFDF
+palette = 15=#bbc2cf

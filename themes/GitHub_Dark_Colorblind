@@ -1,0 +1,55 @@
+
+## name: GitHub Dark Colorblind
+## author: GitHub
+## license: MIT
+
+#: The basic colors
+
+foreground = #c9d1d9
+background = #0d1117
+selection-foreground = #0d1117
+selection-background = #58a6ff
+
+
+#: Cursor colors
+
+cursor-color =#58a6ff
+
+
+#: Tab bar colors
+
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#484f58
+palette = 8=#6e7681
+
+#: red
+palette = 1=#ec8e2c
+palette = 9=#fdac54
+
+#: green
+palette = 2=#58a6ff
+palette = 10=#79c0ff
+
+#: yellow
+palette = 3=#d29922
+palette = 11=#e3b341
+
+#: blue
+palette = 4=#58a6ff
+palette = 12=#79c0ff
+
+#: magenta
+palette = 5=#bc8cff
+palette = 13=#d2a8ff
+
+#: cyan
+palette = 6=#39c5cf
+palette = 14=#56d4dd
+
+#: white
+palette = 7=#b1bac4
+palette = 15=#ffffff

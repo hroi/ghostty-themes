@@ -1,0 +1,45 @@
+# snazzy by Connor Holyday <connorholyday@gmail.com> (holyday.me)
+# This work is licensed under the terms of the MIT license.
+# For a copy, see https://opensource.org/licenses/MIT.
+
+# Snazzy Colorscheme for Kitty
+# Based on https://github.com/sindresorhus/hyper-snazzy
+
+foreground = #eff0eb
+background = #282a36
+selection-foreground = #000000
+selection-background = #FFFACD
+cursor-color =#97979B
+cursor-text =#282A36
+
+# black
+palette = 0=#282a36
+palette = 8=#686868
+
+# red
+palette = 1=#FF5C57
+palette = 9=#FF5C57
+
+# green
+palette = 2=#5AF78E
+palette = 10=#5AF78E
+
+# yellow
+palette = 3=#F3F99D
+palette = 11=#F3F99D
+
+# blue
+palette = 4=#57C7FF
+palette = 12=#57C7FF
+
+# magenta
+palette = 5=#FF6AC1
+palette = 13=#FF6AC1
+
+# cyan
+palette = 6=#9AEDFE
+palette = 14=#9AEDFE
+
+# white
+palette = 7=#F1F1F0
+palette = 15=#EFF0EB

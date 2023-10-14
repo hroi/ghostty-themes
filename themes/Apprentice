@@ -1,0 +1,26 @@
+# Apprentice by Romain Lafourcade, https://github.com/romainl
+# This work is licensed under the terms of the MIT license.
+# For a copy, see https://opensource.org/licenses/MIT.
+
+cursor-color =#c7c7c7
+cursor-text =#feffff
+selection-foreground = #3e3e3e
+selection-background = #c1ddff
+foreground = #c8c8c8
+background = #323232
+palette = 0=#252525
+palette = 8=#555555
+palette = 1=#be7472
+palette = 9=#ff9900
+palette = 2=#709772
+palette = 10=#97bb98
+palette = 3=#989772
+palette = 11=#fefdbc
+palette = 4=#7199bc
+palette = 12=#9fbdde
+palette = 5=#727399
+palette = 13=#989abc
+palette = 6=#719899
+palette = 14=#6fbbbc
+palette = 7=#7f7f7f
+palette = 15=#feffff

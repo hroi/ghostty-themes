@@ -1,0 +1,46 @@
+## name: Gruvbox Material Light Soft
+## author: Sainnhe Park
+## license: MIT
+## upstream: https://raw.githubusercontent.com/rsaihe/gruvbox-material-kitty/main/colors/gruvbox-material-light-soft.conf
+## blurb: A modified version of Gruvbox with softer contrasts
+
+background = #f2e5bc
+foreground = #654735
+
+selection-background = #654735
+selection-foreground = #f2e5bc
+
+cursor-color =#928374
+cursor-text =background
+
+# Black
+palette = 0=#bdae93
+palette = 8=#928374
+
+# Red
+palette = 1=#c14a4a
+palette = 9=#c14a4a
+
+# Green
+palette = 2=#6c782e
+palette = 10=#6c782e
+
+# Yellow
+palette = 3=#c35e0a
+palette = 11=#b47109
+
+# Blue
+palette = 4=#45707a
+palette = 12=#45707a
+
+# Magenta
+palette = 5=#945e80
+palette = 13=#945e80
+
+# Cyan
+palette = 6=#4c7a5d
+palette = 14=#4c7a5d
+
+# White
+palette = 7=#654735
+palette = 15=#654735

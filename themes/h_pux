@@ -1,0 +1,93 @@
+## name: H-PUX
+## author: Jacob Chapman
+## license: CC0 Public Domain
+## upstream: https://github.com/chapmanjacobd/computer/blob/main/.config/kitty/theme.conf
+
+#: The basic colors
+
+foreground = #000000
+background = #d1bca7
+selection-foreground = #dfdbc3
+selection-background = #223322
+
+
+#: Cursor colors
+
+cursor-color =#73635a
+# cursor_text_color               #111111
+
+
+#: URL underline color when hovering with mouse
+
+# url_color                       #0087bd
+
+
+#: kitty window border colors and terminal bell colors
+
+# active_border_color             #00ff00
+# inactive_border_color           #cccccc
+# bell_border_color               #ff5a00
+# visual_bell_color               none
+
+
+#: OS Window titlebar colors
+
+# wayland_titlebar_color          system
+# macos_titlebar_color            system
+
+
+#: Tab bar colors
+
+# active_tab_foreground           #000
+# active_tab_background           #eee
+# inactive_tab_foreground         #444
+# inactive_tab_background         #999
+# tab_bar_background              none
+# tab_bar_margin_color            none
+
+
+#: Colors for marks (marked text in the terminal)
+
+# mark1_foreground black
+# mark1_background #98d3cb
+# mark2_foreground black
+# mark2_background #f2dcd3
+# mark3_foreground black
+# mark3_background #f274bc
+
+
+#: The basic 16 colors
+
+#: black
+palette = 0=#000000
+palette = 8=#545454
+
+#: red
+palette = 1=#8c0000
+palette = 9=#ff0000
+
+#: green
+palette = 2=#007d00
+palette = 10=#00ee00
+
+#: yellow
+palette = 3=#8c7000
+palette = 11=#ffff00
+
+#: blue
+palette = 4=#003cb4
+palette = 12=#0000ff
+
+#: magenta
+palette = 5=#820082
+palette = 13=#ff00ff
+
+#: cyan
+palette = 6=#008b8b
+palette = 14=#00cdcd
+
+# : white
+palette = 7=#bbbbbb
+palette = 15=#ffffff
+
+#: You can set the remaining 240 colors as color16 to color255.

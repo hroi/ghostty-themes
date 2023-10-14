@@ -1,0 +1,30 @@
+# Kitty snow colors - dark
+# Just copy the contents into your kitty config file
+
+# Michael Chris Lopez (http://github.com/mcchrish)
+
+background = #2c2d30
+foreground = #afb7c0
+selection-background = #afb7c0
+selection-foreground = #2c2d30
+cursor-color =#cbd2d9
+
+# normal
+palette = 0=#2c2d30
+palette = 1=#be868c
+palette = 2=#7f9d77
+palette = 3=#ab916d
+palette = 4=#759abd
+palette = 5=#a88cb3
+palette = 6=#5da19f
+palette = 7=#afb7c0
+
+# bright
+palette = 8=#363a3e
+palette = 9=#be868c
+palette = 10=#7f9d77
+palette = 11=#ab916d
+palette = 12=#759abd
+palette = 13=#a88cb3
+palette = 14=#5da19f
+palette = 15=#cbd2d9

@@ -13,7 +13,7 @@ selection-background = #E4E4E8
 
 # Cursor colors
 cursor-color =#E4E4E8
-cursor-text =#ffffff
+cursor-text = #ffffff
 
 # kitty window border colors
 

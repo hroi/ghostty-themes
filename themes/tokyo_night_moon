@@ -10,7 +10,7 @@ foreground = #c8d3f5
 selection-background = #3654a7
 selection-foreground = #c8d3f5
 cursor-color =#c8d3f5
-cursor-text =#222436
+cursor-text = #222436
 
 # Tabs
 #tab_bar_background #1b1d2b

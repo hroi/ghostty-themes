@@ -9,8 +9,7 @@ if [ ! -d "$KITTY_THEMES_DIR" ]; then
   exit 1
 fi
 
-for f in "$KITTY_THEMES_DIR"/*.conf
-do
+for f in "$KITTY_THEMES_DIR"/*.conf; do
   themename=$(basename "${f/.conf}")
   ./convert-from-kitty.gawk < "$f" > ./themes/"$themename"
 done

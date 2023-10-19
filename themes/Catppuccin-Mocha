@@ -15,7 +15,7 @@ selection-background = #F5E0DC
 
 # Cursor colors
 cursor-color =#F5E0DC
-cursor-text =#1E1E2E
+cursor-text = #1E1E2E
 
 # URL underline color when hovering with mouse
 

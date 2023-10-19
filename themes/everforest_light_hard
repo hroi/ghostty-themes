@@ -10,7 +10,7 @@ selection-foreground = #829181
 selection-background = #f0f2d4
 
 cursor-color =#5c6a72
-cursor-text =#f8f5e4
+cursor-text = #f8f5e4
 
 
 

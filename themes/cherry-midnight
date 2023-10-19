@@ -9,7 +9,7 @@ selection-foreground = #101017
 selection-background = #bdc3df
 
 cursor-color =#bdc3df
-cursor-text =#101017
+cursor-text = #101017
 
 
 palette = 0=#33333f

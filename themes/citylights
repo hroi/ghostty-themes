@@ -12,7 +12,7 @@ selection-background = #a0b3c5
 
 # Cursor colors
 cursor-color =#a0b3c5
-cursor-text =#1d252c
+cursor-text = #1d252c
 
 # URL
 

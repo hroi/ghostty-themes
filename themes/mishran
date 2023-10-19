@@ -19,7 +19,7 @@ background = #000000
 #: Cursor colors
 
 cursor-color =#ff6d0a
-cursor-text =#111111
+cursor-text = #111111
 
 
 #: The basic 16 colors

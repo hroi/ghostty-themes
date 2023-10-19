@@ -10,7 +10,7 @@ selection-foreground = #B4BDC3
 selection-background = #3D4042
 # Cursor colors
 cursor-color =#C4CACF
-cursor-text =#1C1917
+cursor-text = #1C1917
 # URL underline color when hovering with mouse
 # kitty window border colors
 # OS Window titlebar colors

@@ -3,7 +3,7 @@
 # For a copy, see https://opensource.org/licenses/MIT.
 
 cursor-color =#c7c7c7
-cursor-text =#feffff
+cursor-text = #feffff
 selection-foreground = #3e3e3e
 selection-background = #c1ddff
 foreground = #c8c8c8
